@@ -1,7 +1,7 @@
 ### Olá, eu sou Kellvin ✌️
 
 <p>Tenho 26 anos e estou iniciando meus estudos em HTML, CSS e JavaScript.</p>
-<p>Foco em FullStack, estou de olho em React.JS e Node.JS.</p>
+<p>Foco em Front-End, estou de olho em React.JS</p>
 
 <div>
   <a href="https://www.linkedin.com/in/kellvin-correia-alves/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn" alt=""></a>
