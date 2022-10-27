@@ -1,6 +1,6 @@
 ### Olá, eu sou Kellvin ✌️
 
-<p>Tenho 26 anos e estou iniciando meus estudos em HTML, CSS e JavaScript.</p>
+<p>Tenho 27 anos e estou iniciando meus estudos em HTML, CSS e JavaScript.</p>
 <p>Foco em Front-End, estou de olho em React.JS</p>
 
 <div>
