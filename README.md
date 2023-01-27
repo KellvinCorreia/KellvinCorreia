@@ -31,5 +31,4 @@
 </div>
 
 
-![Snake animation](https://github.com/KellvinCorreia/KellvinCorreia/blob/output/github-contribution-grid-snake.svg)
 
