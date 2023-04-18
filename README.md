@@ -1,7 +1,7 @@
 ### Olá, eu sou Kellvin ✌️
 
 <p>Tenho 27 anos e estou iniciando meu estágio em QA.</p>
-<p>Tenho habilidades em Html, Css, JavaScript, Git e Github, além de sempre estudar algumas coisas novas!</p>
+<p>Tenho habilidades em Java, JavaScript, Selenium WebDriver, Cypress, Rest Assured, Postman Git e Github, além de estudar metodologias ágeis!</p>
 
 <div>
   <a href="https://www.linkedin.com/in/kellvin-correia-alves/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn" alt=""></a>
