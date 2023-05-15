@@ -1,34 +1,28 @@
-### Olá, eu sou Kellvin ✌️
+<h1 align="center">Olá 👋, Eu sou o Kellvin</h1>
+<h3 align="center">Eterno estudante e desenvolvedor, atuo como Quality Assurance e gosto muito de programar em outras áreas também!</h3>
 
-<p>Tenho 27 anos e estou iniciando meu estágio em QA.</p>
-<p>Tenho habilidades em Java, JavaScript, Selenium WebDriver, Cypress, Rest Assured, Postman Git e Github, além de estudar metodologias ágeis!</p>
+- 🔭 Trabalhando atualmente como Quality Assurance **DBC Company**
 
-<div>
-  <a href="https://www.linkedin.com/in/kellvin-correia-alves/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn" alt=""></a>
-</div>
+- 🌱 Atualmente estudando sobre: **Automação de testes e desenvolvimento backend com java**
 
-<div align="center">
-  <a href="https://github.com/KellvinCorreia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KellvinCorreia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellvinCorreia&layout=compact&langs_count=5&theme=tokyonight"/>
-</div>
+- 🤝 Gostaria de ajuda com: **Backend em geral**
 
+- 👨‍💻 Todos os meus projetos estão em: [https://github.com/KellvinCorreia](https://github.com/KellvinCorreia)
 
-## 🛠️ Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kell_HTML" src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35">
-  <img align="center" alt="Kell_CSS" src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236">
-  <img align="center" alt="Kell_JS" src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074">
-  <img align="center" alt="Kell_VSC" src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343">
-  <img align="center" alt="Kell_GIT" src="https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974">
-  <img align="center" alt="Kell_GHUB" src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562">
-</div>
+- 📝 Também estou começando alguns projetos privados em: [https://gitlab.com/kellvin.correia](https://gitlab.com/kellvin.correia)
 
-### ✍️ Near Future
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kell_NODE" src="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73">
-  <img align="center" alt="Kell_REACT" src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374">
-</div>
+- 💬 Me pergunte sobre: **Testes automatizados**
 
+- 📫 Como me encontrar: **kellvin.correia@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kellvin-correia-alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kellvin-correia-alves" height="30" width="40" /></a>
+<a href="https://instagram.com/kellvinca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kellvinca" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kellvincorreia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kellvincorreia" /></a></p><br><br>
