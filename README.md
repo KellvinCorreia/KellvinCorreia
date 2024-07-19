@@ -8,17 +8,18 @@
 💬 Me pergunte sobre: **Testes automatizados**
 
 📫 Como me encontrar:
-</br> Email: **kellvin.correia@gmail.com**
-</br> Cel: **(81) 99710-3325**
 
-<h3 align="left">Connect with me:</h3>
+## Contato
+
+<strong>kellvin.correia@gmail.com</strong> </br>
+
+<strong>(81) 99710-3325</strong>
+
 <p align="left">
 <a href="https://linkedin.com/in/kellvin-correia-alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kellvin-correia-alves" height="20" width="30" /></a>
 <a href="https://instagram.com/kellvinca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kellvinca" height="20" width="30" /></a>
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-## Tecnologias e Ferramentas
 
 ### Conhecimentos gerais
 ![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-%23E34F26.svg?style=flat&logo=book&logoColor=white)
