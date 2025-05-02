@@ -1,24 +1,25 @@
 <h1 align="center">Olá 👋, Eu sou o Kellvin</h1>
-<h3 align="center">Atuo como Quality Assurance e gosto de backend!</h3> </br>
+<h3 align="center">🎯 Analista de Qualidade de Software (QA)</h3> </br>
 
-🔭 Quality Assurance na GOL Linhas Aéreas pela DBC Company
-  
-🌱 Testes automatizados, CI/CD, CTFL
+🚀 Experiência prática em automação de testes **Web, Mobile e APIs**.  Atuo em ambientes ágeis (Scrum/Kanban), contribuindo com a criação de testes automatizados, sustentação de sistemas e melhoria contínua da qualidade de software.
 
-💬 Me pergunte sobre: **Testes automatizados**
+## 📌 Sobre Mim
 
-📫 Como me encontrar:
+- 🎓 Cursando Ciência da Computação (FMU) – Previsão de conclusão: 2025
+- 🧠 Sempre buscando me atualizar nas melhores práticas de QA e automação
+- 🌐 Atualmente atuando como QA Automation na Gol Linhas Aéreas (via DBC Company)
 
-## Contato
+---
 
-<strong>kellvin.correia@gmail.com</strong> </br>
+## 📫 Contato
 
-<strong>(81) 99710-3325</strong>
+- LinkedIn: [linkedin.com/in/kellvin-correia-alves](https://linkedin.com/in/kellvin-correia-alves)
+- GitHub: [github.com/KellvinCorreia](https://github.com/KellvinCorreia)
+- E-mail: kellvin.correia@gmail.com
 
-<p align="left">
-<a href="https://linkedin.com/in/kellvin-correia-alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kellvin-correia-alves" height="20" width="30" /></a>
-<a href="https://instagram.com/kellvinca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kellvinca" height="20" width="30" /></a>
-</p>
+---
+
+⭐ Obrigado por visitar meu perfil! Se tiver sugestões ou quiser trocar uma ideia sobre QA, automação ou carreira na área de testes, fique à vontade para entrar em contato.
 
 
 ### Conhecimentos gerais
@@ -42,10 +43,6 @@
 ![Newman](https://img.shields.io/badge/Newman-%23000000.svg?style=flat&logo=newman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-%23FF7102.svg?style=flat&logo=browserstack&logoColor=white)
-
-
-### Linguagens de Marcação
-
 
 
 <h3 align="left">Support:</h3>
